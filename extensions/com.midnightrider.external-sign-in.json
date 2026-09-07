@@ -1,0 +1,23 @@
+{
+  "id": "com.midnightrider.external-sign-in",
+  "sourceManifestUrl": "https://raw.githubusercontent.com/MinasukiHikimuna/MidnightRider-Cove/main/extensions/external-sign-in/src/ExternalSignIn/extension.json",
+  "repositoryUrl": "https://github.com/MinasukiHikimuna/MidnightRider-Cove",
+  "screenshots": [],
+  "versions": [
+    {
+      "version": "0.1.1",
+      "changelog": "Initial public release: add OpenID Connect and trusted reverse-proxy sign-in for existing Cove accounts, with explicit identity linking and local-password recovery.",
+      "minCoveVersion": "1.4.1",
+      "downloadUrl": "https://github.com/MinasukiHikimuna/MidnightRider-Cove/releases/download/com.midnightrider.external-sign-in/v0.1.1/com.midnightrider.external-sign-in-0.1.1.zip",
+      "dependencies": {}
+    }
+  ],
+  "name": "External Sign-In",
+  "description": "Adds OIDC and trusted-proxy sign-in to existing Cove accounts.",
+  "author": "MidnightRider",
+  "kind": "extension",
+  "categories": [
+    "security",
+    "integration"
+  ]
+}
