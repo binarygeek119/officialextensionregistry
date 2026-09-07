@@ -9,7 +9,9 @@
       "changelog": "Initial public release: add OpenID Connect and trusted reverse-proxy sign-in for existing Cove accounts, with explicit identity linking and local-password recovery.",
       "minCoveVersion": "1.4.1",
       "downloadUrl": "https://github.com/MinasukiHikimuna/MidnightRider-Cove/releases/download/com.midnightrider.external-sign-in/v0.1.1/com.midnightrider.external-sign-in-0.1.1.zip",
-      "dependencies": {}
+      "dependencies": {},
+      "checksum": "sha256:ecb82a57348efb311f90c188675a4773c3cf22b1f9882b7ccc4ca52da3e43ea2",
+      "releasedAt": "2026-09-07T02:32:25Z"
     }
   ],
   "name": "External Sign-In",
